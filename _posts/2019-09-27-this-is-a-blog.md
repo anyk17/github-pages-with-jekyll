@@ -1,3 +1,8 @@
-Hey!
+---
 
-This is a blog
+title: "THIS IS A BLOG"
+
+date: 2019-09-27
+
+---
+
